@@ -10,6 +10,8 @@ Clone this repo and install the dependencies:
 
 `npm install`
 
+mongodb is expected to be running on 'localhost:27017'. You can change this on file 'app.js'
+
 
 #### START REST SERVER
 
